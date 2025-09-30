@@ -39,17 +39,3 @@
 ### Additional Packages
 - **Equatable** - مقارنة الكائنات
 - **Material Design** - عناصر واجهة المستخدم
-
-## 📋 المتطلبات الأساسية
-
-- Flutter SDK 3.0.0 أو أحدث
-- Dart SDK 2.18.0 أو أحدث
-- حساب Google (لـ Firebase)
-- Android Studio / VS Code
-
-## 🚀 خطوات التثبيت
-
-### 1. استنساخ المشروع
-```bash
-git clone https://github.com/your-username/character-app.git
-cd character-app**
